@@ -1,0 +1,31 @@
+---
+layout: rezept
+author: Andreas
+title: "Mamaliga (Мамалыга)"
+date: 2016-07-15
+categories: mais brot
+ingredients:
+  - 
+    name: Maisgries
+    amonut: 150 g
+  - 
+    name: Wasser
+    amount: 450 ml
+
+image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
+---
+
+
+## ZUBEREITUNG
+
+Das Wasser zu kochen bringen und auf kleinste Stufe runterstellen. Maisgries mit einer Gabel einrühren. Auf kleinster Stufe ca. 20 Minuten ohne Deckel kochen, dabei mehrfach umrühren. Nach dem Kochen auf einem Teller legen und eine "Brotform" daraus formen.
+
+
+## TIPPS
+
+Man kann Mamaliga mit Kräutern oder Brühe kochen, für mehr Geschmack.
+
+Mamaliga niemals gleich nach dem Kochen essen, besser über mehrere Stunden im Kühlschrank abkühlen lassen.
+
+Am besten schmeckt es aber in der Bratpfanne mit Butter angebraten.
