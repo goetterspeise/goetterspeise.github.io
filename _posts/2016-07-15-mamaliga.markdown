@@ -1,5 +1,5 @@
 ---
-layout: rezept
+layout: recipe
 author: Andreas
 title: "Mamaliga (Мамалыга)"
 date: 2016-07-15
