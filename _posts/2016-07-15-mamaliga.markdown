@@ -7,7 +7,7 @@ categories: mais brot
 ingredients:
   - 
     name: Maisgries
-    amonut: 150 g
+    amount: 150 g
   - 
     name: Wasser
     amount: 450 ml

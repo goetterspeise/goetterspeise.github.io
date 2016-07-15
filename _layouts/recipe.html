@@ -52,11 +52,13 @@
           </div>
           <a name="topofpage"></a>
           <div class="category-container">
+            Kategorien:&nbsp;
           	{% for category in page.categories %}
   			  <span class="category">{{ category }}</span>
 			{% endfor %}
 		  </div>
 		  <div class="ingredients-container">
+		  	Zutaten:
 		  	<table>
           	{% for ingredient in page.ingredients %}
   			  <tr>
